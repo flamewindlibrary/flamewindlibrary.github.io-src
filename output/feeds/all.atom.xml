@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Flamewind's Library</title><link href="https://thekodaxlibrary/" rel="alternate"></link><link href="https://thekodaxlibrary/feeds/all.atom.xml" rel="self"></link><id>https://thekodaxlibrary/</id><updated>2017-12-09T00:00:00-03:00</updated><entry><title>Kodax, 9 dedos</title><link href="https://thekodaxlibrary/kodax-9-dedos-es.html" rel="alternate"></link><published>2017-12-09T00:00:00-03:00</published><updated>2017-12-09T00:00:00-03:00</updated><author><name>Maxi Cecilia</name></author><id>tag:thekodaxlibrary,2017-12-09:/kodax-9-dedos-es.html</id><summary type="html">&lt;p&gt;Kodax, 9 dedos, un elfo drow proveniente de otra realidad. Como llegó a Khorvarie es un misterio, pero se dice que se lo vió por primera vez en Sharn, junto con otros poderosos aventureros, de los que luego se separó.&lt;/p&gt;
+&lt;p&gt;Los primeros contactos de Kodax como un personaje importante fueron …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Kodax, 9 dedos, un elfo drow proveniente de otra realidad. Como llegó a Khorvarie es un misterio, pero se dice que se lo vió por primera vez en Sharn, junto con otros poderosos aventureros, de los que luego se separó.&lt;/p&gt;
+&lt;p&gt;Los primeros contactos de Kodax como un personaje importante fueron en Aundauir, donde dicen que sedujo a una viuda heredera Lyrandar, a la que dejo luego de esfumar su pequeña fortuna.
+De vuelta en Sharn, Kodax inicio un pequeño gremio, "Los Gatos Locos", el cual fue ganando fuerza lentamente. El gremio de Kodax se encuentra en el districto de la "Puerta Blanca", en Sharn. Un lugar lleno de razas poco comunes... igual que sus negocios.
+Los rumores lo marcan como un vampiro, lo que se sustenta por su aspecto siniestro a porque principalmente actua de noche, aunque en su linea de trabajo eso no es del todo raro.&lt;/p&gt;</content><category term="Breland"></category><category term="NPC"></category><category term="Rogue"></category></entry><entry><title>Werwolf</title><link href="https://thekodaxlibrary/werwolf.html" rel="alternate"></link><published>2017-12-02T00:00:00-03:00</published><updated>2017-12-02T00:00:00-03:00</updated><author><name>Flamewind</name></author><id>tag:thekodaxlibrary,2017-12-02:/werwolf.html</id><summary type="html">&lt;h1&gt;Werwolf&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="foo" src="https://s-media-cache-ak0.pinimg.com/736x/0e/9c/8f/0e9c8f41039197938162bb27ab29dcf1--werewolf-vampires.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;You gain the following traits after being cursed:
+The character gains a Strength of 15 if his or her score isn't already higher (If it's higher, then gain +1 Frz)
+The character becomes proficient with Perception and Stealth skills.&lt;/p&gt;
+&lt;h2&gt;Cursed&lt;/h2&gt;
+&lt;p&gt;The character is cursed with the curse of lycanthropy …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Werwolf&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="foo" src="https://s-media-cache-ak0.pinimg.com/736x/0e/9c/8f/0e9c8f41039197938162bb27ab29dcf1--werewolf-vampires.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;You gain the following traits after being cursed:
+The character gains a Strength of 15 if his or her score isn't already higher (If it's higher, then gain +1 Frz)
+The character becomes proficient with Perception and Stealth skills.&lt;/p&gt;
+&lt;h2&gt;Cursed&lt;/h2&gt;
+&lt;p&gt;The character is cursed with the curse of lycanthropy, and has 3 alternatives to choose:
+&lt;strong&gt;Embrace the curse.&lt;/strong&gt; The infected character becomes chaotic evil and only thinks in killing to satisfy his hunger and lust for blood. Will put his own desires first of everything and will partner with others like him only if extremely necessary for his survival.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fight the curse.&lt;/strong&gt; The infected character doesn't want to change and tries to avoid transforming. Each day of full moon (3 days) he must succeed a Wisdom saving throw (DC 12 + Bloodlust counter) or go on a rampage killing everything is menacing or until he feels satisfied.
+Each time the character kills a creature or has less than 10 HP, he must succeed a Wisdom saving throw (DC 10 + Bloodlust counter) or transform himself and go on a rampage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Master the curse.&lt;/strong&gt; If the infected character manages to avoid transforming during 3 full moons, he has mastered the curse and it's able to transform at will (transform to hybrid form is a bonus action, transform to Wolf is a full action).
+Each time the character kills 5 creatures before a short rest or has less than 2 HP, he must succeed a Wisdom saving throw (DC 8 + Bloodlust counter) or transform himself and go on a rampage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bloodlust counter&lt;/strong&gt;: Each time you fail a saving throw and go on a rampage, increase your Bloodlust counter by 1. If you succeed 2 saving throws on a row, clear all Bloodlust counters.&lt;/p&gt;
+&lt;h3&gt;Hybrid Form&lt;/h3&gt;
+&lt;p&gt;+1 AC (natural armor)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Damage Immunities.&lt;/strong&gt; bludgeoning, piercing, and slashing damage from non magical weapons that aren't silvered
+&lt;strong&gt;Keen Hearing and Smell.&lt;/strong&gt; The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multiattack.&lt;/strong&gt; The werewolf makes two attacks: one with its bite and one with its claws.
+&lt;strong&gt;Bite.&lt;/strong&gt; Melee Weapon Attack (Str), reach 5 ft., one target. Hit: (1d8 + Frz) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+&lt;strong&gt;Claws.&lt;/strong&gt; Melee Weapon Attack (Str), reach 5 ft., one creature. Hit: (2d4 + Frz) slashing damage.&lt;/p&gt;
+&lt;h3&gt;Wolf Form&lt;/h3&gt;
+&lt;p&gt;+2 AC (natural armor)
++1 DEX&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Damage Immunities.&lt;/strong&gt; bludgeoning, piercing, and slashing damage from non magical weapons that aren't silvered
+&lt;strong&gt;Keen Hearing and Smell.&lt;/strong&gt; The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bite.&lt;/strong&gt; Melee Weapon Attack (Str), reach 5 ft., one target. Hit: (2d6 + Frz) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.&lt;/p&gt;</content></entry></feed>
