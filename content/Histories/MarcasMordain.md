@@ -1,4 +1,4 @@
-Title: Las Marcas de Mordain : 2017-12-13 Tags: Eberron, Ejercito, Monstruos, Historia, Marcas  Author: Tomas Margaria Lang:es
+Title: Las Marcas de Mordain Date: 2017-12-13 Tags: Eberron, Ejercito, Monstruos, Historia, Marcas  Author: Tomas Margaria Lang:es
 
 Las Marcas ulizadas para dominar y ligar a los monstruos fueron creadas por Temistocles a imagen y semejanza de las utlizadas por, quien fue maestro,  el Mago "Tejedor de la Carne" Mordain. Quien les daba uso entre otras cosas para controlar sus experimentos.
 
