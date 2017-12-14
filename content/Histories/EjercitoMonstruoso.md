@@ -1,4 +1,8 @@
-Title: El ejercito Monstruoso Date: 2017-12-13 Tags: Eberron, Ejercito, Monstruos, Historia  Author: Tomas Margaria Lang:es
+Title: El ejercito Monstruoso 
+Date: 2017-12-13 
+Tags: khorvaire, Ejercito, Monstruos, Historia  
+Author: Tomas Margaria 
+Lang:es
 
 Durante la ultima gran guerra Librada en Eberron. Muchos grupos de Poder se disputaron su lugar en el mundo. Muchos de ellos recurrieron a la creación y uso de los forjados como fuerza militar.
 En respuesta a esta fuerza militar se creó el ejercito monstruoso mediante hechizos y ofertas tentadoras atrayeron a diversas creaturas, engañándolas para luego marcalas, quedando ligadas y obligadas a obedecer.

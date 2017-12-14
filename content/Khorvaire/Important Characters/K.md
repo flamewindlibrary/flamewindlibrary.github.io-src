@@ -1,4 +1,7 @@
-Title: K, la mano Date: 2017-12-13 Tags:Breland,NPC,Ninja, Assassins Author: Tomas Margaria Lang:es
+Title: K, la mano 
+Date: 2017-12-13 Tags:Breland,NPC,Ninja, Assassins 
+Author: Tomas Margaria 
+Lang:es
 
 La historia de K comienza en una realidad alternativa con su ya controversial nacimiento en el Bosque de Gaia de padre humano y madre elfa.
 Su padre, un ninja de la orden de las sombras estaba en una mision colaborativa entre ordenes (algo que rara vez sucedía).
