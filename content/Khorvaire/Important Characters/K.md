@@ -1,5 +1,6 @@
 Title: K, la mano 
-Date: 2017-12-13 Tags:Breland,NPC,Ninja, Assassins 
+Date: 2017-12-13 
+Tags:Breland,NPC,Ninja, Assassins 
 Author: Tomas Margaria 
 Lang:es
 
